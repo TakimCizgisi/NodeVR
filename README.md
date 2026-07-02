@@ -1,7 +1,7 @@
 # 🌐 NodeVR
 **Node.js Powered VR Operating System**
 
-![NodeVR Logo](https://raw.githubusercontent.com/TakımCizgisi/NodeVR/main/assets/VR.SVG)
+![NodeVR Logo](https://github.com/TakimCizgisi/NodeVR/blob/main/assets/VR.svg)
 
 ## 📊 Project Status
 ![Status Badge](https://img.shields.io/badge/Status-Working%20On%20Delta%20a41%20For%20A22-blue)
