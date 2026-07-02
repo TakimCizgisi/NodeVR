@@ -1,22 +1,21 @@
 # 🌐 NodeVR
-**Node.js Powered VR OS**
+**Node.js Powered VR Operating System**
 
-## 📖 Hakkında
-NodeVR, **TakımÇizgisi Ekibi** tarafından geliştirilen, sanal ortamda çalışan bir **emülasyon/işletim sistemi** projesidir.  
-Amacı, **Meta** veya **Android XR** platformlarına yakın bir deneyim sunmaktır.  
+![NodeVR Logo](https://raw.githubusercontent.com/username/repo/main/assets/logo.png)
 
-## ✨ Özellikler
-- 🖐️ **El ile kontrol** (Google TensorFlow vb. teknolojilerle)  
-- 🎨 **3D ortam desteği** (Three.js ile)  
-- 📂 **Uygulama yöneticisi**  
+## 📊 Project Status
+![Status Badge](https://img.shields.io/badge/Status-Working%20On%20Delta%20a41%20For%20A22-blue)
+![Problems Badge](https://img.shields.io/badge/Problems-2-red)
+![Latest Version Badge](https://img.shields.io/badge/Latest%20Version-delta__a42-green)
 
-## 👥 Katkıda Bulunanlar
-- **@Firexy** → Mobil uygulama geliştirme  
-- **@VancVM & @IDT** → Kod desteği  
-- **@Flord** → İsteğe bağlı katkı  
+## ✨ Features
+- 🖐️ Hand Tracking Control (TensorFlow)  
+- 🎨 3D Environment Rendering (Three.js)  
+- 📂 Application Manager  
 
-## 🚀 Kurulum
-1. Node.js’in en güncel sürümünü yükleyin.  
-2. Depoyu klonlayın:  
-   ```bash
-   git clone https://github.com/takimcizgisi/nodevr.git
+## 🚀 Installation
+```bash
+git clone https://github.com/takimcizgisi/nodevr.git
+cd nodevr
+npm install
+npm start
